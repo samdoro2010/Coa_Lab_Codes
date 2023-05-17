@@ -6,7 +6,7 @@
 [For Coa PDF all codes CLICK HERE]()
 
 
-
+## All Coa Codes txt file 
 [1.AVERAGE OF NUMBERS](https://github.com/samdoro2010/Coa_Lab_Codes/blob/main/Coa%20Lab%20Codes/AVERAGE%20OF%20NUMBERS.txt)
 
 [2.COPY CHARACTERS](https://github.com/samdoro2010/Coa_Lab_Codes/blob/main/Coa%20Lab%20Codes/COPY%20CHARACTERS.txt)
