@@ -3,9 +3,11 @@
 ## Coa Codes
 
 ## All Coa Codes Google Docs file 
-[For Coa PDF all codes CLICK HERE](https://docs.google.com/document/d/1pOvKPXudoRKtowVSCJrmNyAncS-1P3g_hQW8az7Gnr8/edit?usp=sharing)
+[For Coa GOOGLE DOCS all codes CLICK HERE](https://docs.google.com/document/d/1pOvKPXudoRKtowVSCJrmNyAncS-1P3g_hQW8az7Gnr8/edit?usp=sharing)
+
+
 ## All Coa Codes Pdf file 
-[For Coa PDF all codes CLICK HERE](https://docs.google.com/document/d/1pOvKPXudoRKtowVSCJrmNyAncS-1P3g_hQW8az7Gnr8/edit?usp=sharing)
+[For Coa PDF all codes CLICK HERE](https://github.com/samdoro2010/Coa_Lab_Codes/blob/main/Coa_google_docs.pdf)
 
 
 ## All Coa Codes txt file 
