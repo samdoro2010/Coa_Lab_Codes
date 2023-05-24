@@ -9,6 +9,9 @@
 ## All Coa Codes Pdf file 
 [For Coa PDF all codes CLICK HERE](https://github.com/samdoro2010/Coa_Lab_Codes/blob/main/Coa_google_docs.pdf)
 
+## All Coa Codes REPLIT Link 
+[For codes in REPLIT CLICK HERE](https://replit.com/@V-KrishnaKrishn/COA)
+
 
 ## All Coa Codes txt file 
 [1.AVERAGE OF NUMBERS](https://github.com/samdoro2010/Coa_Lab_Codes/blob/main/Coa%20Lab%20Codes/AVERAGE%20OF%20NUMBERS.txt)
